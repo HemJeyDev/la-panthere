@@ -639,8 +639,8 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-.footer__text {
-    color: #FFF!important;
+footer a {
+    color: rgb(0, 0, 0)!important;
 }
 
 h1,
